@@ -2,7 +2,10 @@ const express = require('express')
 const OrgController = require('./controllers/OrgController')
 const IncidentController = require('./controllers/IncidentController')
 const ProfileController = require('./controllers/ProfileController')
+const SessionController = require('./controllers/SessionController')
 const routes = express.Router()
+
+routes.post('/login', SessionController.login);
 
 routes.get('/ongs', OrgController.index)
 routes.post('/ongs', OrgController.create)
