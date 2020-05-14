@@ -36,4 +36,4 @@ Now, wait and you will see a new page in [localhost:19002](http://localhost:1900
 
 ### **Created Interfaces**
 
-![](https://github.com/DanielM08/Be-The-Hero/blob/master/frontend/tela_Inicial_aplicacao_em_cell_e_pc.png)
+![](https://github.com/higor21/OmniStack-Week-Rocketseat/blob/master/screens/tela_Inicial_aplicacao_em_cell_e_pc.png)
